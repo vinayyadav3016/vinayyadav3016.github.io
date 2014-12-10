@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Vinay Yadav
 ---
 
 <div class="navbar">
