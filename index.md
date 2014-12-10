@@ -7,8 +7,8 @@ title: Vinay Yadav
   <div class="navbar-inner">
       <ul class="nav">
           <!--li><a href="{{ BASE_PATH }}/assets/broman.pdf">cv</a></li-->
-          <li><a href="https://github.com/vinayyadav3016"><img src="assets/icons/github.jpeg" width="42" alt="Github" /></a></li>
-          <li><a href="https://twitter.com/vinayyadav3016"><img src="assets/icons/github.jpeg" width="42" alt="Github" /></a></li>
+          <li><a href="https://github.com/vinayyadav3016"><img src="assets/icons/github.jpeg"  /></a></li>
+          <li><a href="https://twitter.com/vinayyadav3016"><img src="assets/icons/github.jpeg" /></a></li>
       </ul>
   </div>
 </div>
