@@ -1,9 +1,9 @@
 ---
 layout: page
-title: about
+title: About
 ---
 
-Karl Broman is Professor in the
+Vinay Yadav is Analytic Specialist in the
 [Department of Biostatistics &amp; Medical Informatics](http://www.biostat.wisc.edu)
 at the University of Wisconsin&ndash;Madison;
 research in statistical genetics; developer of
@@ -40,30 +40,28 @@ his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3).
 ---
 
 <div class="container">
-<h4>contact</h4>
+<h4>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">
-            Karl Broman<br/>
-            <a href="http://www.biostat.wisc.edu">Department of Biostatistics &amp; Medical Informatics</a><br/>
-            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            <a href="http://map.wisc.edu/s/2tie3nen">2126 Genetics/Biotechnology Center</a><br/>
-            425 Henry Mall<br/>
-            Madison, Wisconsin 53706<br/>
-            USA<br/><br/>
+            Vinay Yadav<br/>
+            Opera Solutions<br/>
+            Floor 6, Express Trade Tower - 1<br/>
+            Plot No 15-16, Sector 16-A<br/>
+            Film City<br/>
+            Noida - 201301<br/>
+            India<br/><br/>
 
             <div id="hide_email">
-            Email: <code>kbro</code><b>I</b><code>man</code><b>don't</b><code>@</code><b>want</b><code>bio</code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
-            Phone: 608-262-4633
+            Email: <code>vinay</code><b>I</b><code>yadav</code><b>don't</b><code>3016</code><code>@</code><b>want</b><code>gmail</code><b>spam!
+            </b><b>So</b><code>.</code><b>please</b><code>com</code><b>leave
+            </b><b>me</b><b>alone</b><b>!</b><br/>
             </div>
         </div>
 
         <div class="span2">
-        <a href="../assets/pics/karl_2014-03-30.jpg">
-            <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+            <img src="../assets/pics/vinayyadav.jpg" height="200px" 
+                  title="Vinay Yadav" alt="Vinay Yadav"/>
         </div>
     </div>
 </div>
