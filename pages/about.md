@@ -4,6 +4,7 @@ title: About
 ---
 I am a robotics enthusiast as you can see from my DP but right now working as Analytic Specialist at Opera Solutions, Noida office.
 I recieved my Dual Degree(B.tech in Electring Engineering & M.tech in Instrumentation and Signal processing) from [Indian Institute of Technology Kharagpur](http://iitkgp.ac.in) and earned my minor too ;) in Computer Science & Engineering
+
 ---
 
 <div class="container">
