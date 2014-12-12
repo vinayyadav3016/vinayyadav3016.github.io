@@ -3,7 +3,10 @@ layout: page
 title: About
 ---
 I am a robotics enthusiast as you can see from my DP but right now working as Analytic Specialist at Opera Solutions, Noida office.
-I recieved my Dual Degree(B.tech in Electring Engineering & M.tech in Instrumentation and Signal processing) from [Indian Institute of Technology Kharagpur](http://iitkgp.ac.in) and earned my minor too ;) in Computer Science & Engineering.
+
+I recieved my Dual Degree(B.tech in Electring Engineering & M.tech in Instrumentation and Signal processing) from [Indian Institute of Technology Kharagpur](http://iitkgp.ac.in) and earned my 
+minor too ;) in Computer Science & Engineering.
+
 I have two siblings, an elder sister Laxmi who works as junior engineer at Airport Authority of India, Ahmedabad and a younger brother Vinesh who is undergraduate student at Lucknow University.
 
 ---
