@@ -43,6 +43,9 @@ table.wide td {
     padding-top: 5px;
     padding-bottom: 5px;
 }
+table.wide td h3{
+    color: #000000;
+}
 
 td.left {
     text-align: left;
@@ -128,6 +131,51 @@ table.award td.right {
     padding-left: 0px
 }
 
+table.skills {
+    width: 100%;
+}
+
+table.skills td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+table.skills td.bullet {
+    text-align: left;
+    width: 2%;
+    vertical-align: top;
+    padding-right: 10px;
+    padding-left: 10px
+}
+
+table.skills td.skill1 {
+    text-align: left;
+    width: 25%;
+    vertical-align: top;
+    padding-left: 0px
+}
+
+table.skills td.skill1_rate {
+    text-align: right;
+    width: 26%;
+    vertical-align: top;
+    padding-right: 20px;
+    border-right: solid #000000;
+}
+
+table.skills td.skill2 {
+    text-align: left;
+    width: 25%;
+    vertical-align: top;
+    padding-left: 10px
+}
+
+table.skills td.skill2_rate {
+    text-align: right;
+    width: 24%;
+    vertical-align: top;
+    padding-right: 20px
+}
 
 
 #hide_email b {

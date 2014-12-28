@@ -1,23 +1,197 @@
 ---
 layout: cv
-title: Publications
+title: Skills
 ---
-<table class="award">
+<!---->
+<table class="wide">
   <tbody>
     <tr>
-      <td class="bullet">•</td>
-      <td class="left">H. Kurniawati and V. Yadav. <i>An Online POMDP Solver for Uncertainty Planning in Dynamic Environment</i>. 
-Springer Tracts in Advanced Robotics. Springer-Verlag. To appear (<b>Book Chapter</b>)</td>
+      <td align="center"><b><h3>Programming Languages</h3></b></td>
     </tr>
     <tr>
-      <td class="bullet">•</td>
-      <td class="left">H. Kurniawati and V. Yadav. <i>An Online POMDP Solver for Uncertainty Planning in Dynamic Environment</i>.
-Proc. Int. Symp. on Robotics Research. 2013. ( <b>Peer-Reviewed Conference</b>)</td>
+      <td><hr></td>
     </tr>
-    <!--tr>
-      <td class="bullet">•</td>
-      <td class="left">Obtained <b>99.31, 99.93, 99.92</b> percentile in IITJEE, AIEEE & UPSEE</td>
-      <td class="right">2009</td>
-    </tr-->
+  </tbody>
+</table>
+<table class="skills">
+  <tbody>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> C++ </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★★½</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> Python </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★½</h4></b></td> 
+    </tr>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> C </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★★½</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> Java </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★½</h4></b></td> 
+    </tr>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> C# </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★½</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> Shell </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★</h4></b></td> 
+    </tr>
+    <tr>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+    </tr>
+  </tbody>
+</table>
+
+<!---->
+<table class="wide">
+  <tbody>
+    <tr>
+      <td align="center"><b><h3>Software Packages</h3></b></td>
+    </tr>
+    <tr>
+      <td><hr></td>
+    </tr>
+  </tbody>
+</table>
+<table class="skills">
+  <tbody>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> Matlab </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★★</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> ROS </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★½</h4></b></td> 
+    </tr>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> OpenCV </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★½</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> Lucene </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★</h4></b></td> 
+    </tr>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> QT </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★★</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> SciPy </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★½</h4></b></td> 
+    </tr>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> arm-gcc </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★★</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> avr-gcc </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★★</h4></b></td> 
+    </tr>
+    <tr>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+    </tr>
+  </tbody>
+</table>
+<!---->
+<table class="wide">
+  <tbody>
+    <tr>
+      <td align="center"><b><h3>Operating System</h3></b></td>
+    </tr>
+    <tr>
+      <td><hr></td>
+    </tr>
+  </tbody>
+</table>
+<table class="skills">
+  <tbody>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> Ubuntu </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★★½</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> Windows  </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★½</h4></b></td> 
+    </tr>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> Android </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★½</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> Debian </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★</h4></b></td> 
+    </tr>
+    <tr>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+    </tr>
+  </tbody>
+</table>
+<!---->
+<table class="wide">
+  <tbody>
+    <tr>
+      <td align="center"><b><h3>Embedded Hardware</h3></b></td>
+    </tr>
+    <tr>
+      <td><hr></td>
+    </tr>
+  </tbody>
+</table>
+<table class="skills">
+  <tbody>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> Beaglebone Black </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★★★</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> AVR Micro-Controllers </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★★</h4></b></td> 
+    </tr>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> Arduino </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★★½</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> TI Micro-Controllers </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★</h4></b></td> 
+    </tr>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> Electric Motors(Servo, Thrusters, Steppers) </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★★★</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> Navigation Sensors(DVL, IMU, GPS) </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★½</h4></b></td> 
+    </tr>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> Communicators(Serial, RF) </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★★★</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> Perception Sensors(Camera, Sonar, Infrared) </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★½</h4></b></td> 
+    </tr>
+    <tr>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+      <td><hr/></td>
+    </tr>
   </tbody>
 </table>
