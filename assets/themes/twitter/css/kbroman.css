@@ -138,3 +138,15 @@ table.award td.right {
 h1, h2, h3, h4 {
     color: darkslateblue;
 }
+
+tr.hr {
+  padding: 0px
+}
+
+td {
+  padding: 0px
+}
+
+hr {
+  padding: 0px
+}

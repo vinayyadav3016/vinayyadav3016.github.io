@@ -28,6 +28,10 @@ title: Education
       <td class="left">July 2009- May 2014</td>
       <td class="right">Due to my interest in intelligent system, apart from my usual course work I have done some additional course apart from my usual curriculum. This earned me a minor in Computer Science with CGPA of 8.46/10. For more information on minor requirement please visit <a href="http://www.webteam.iitkgp.ernet.in/dec08/CS10.pdf" target="_blank">Minor in CSE</a></td>
     </tr>
+    <tr>
+      <td><hr></td>
+      <td><hr></td>
+    </tr>
     <!--tr>
       <td class="left"><b><h4> IIT Kharagpur</h4></b></td>
       <td class="right"><b><h4>Minor in Computer Science & Engineering</h4></b></td>

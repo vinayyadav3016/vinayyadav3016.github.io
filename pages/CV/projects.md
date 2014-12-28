@@ -30,11 +30,11 @@ title: Academic Projects
         </table>
       </td>
     </tr>
-    <!------>
-    <tr>
+    <tr class="hr">
       <td><hr></td>
       <td><hr></td>
     </tr>
+    <!------>
     <tr>
       <td class="left"><b><h4> IIT Kharagpur</h4></b></td>
       <td class="right" style="text-align:right"><b><h4>Students Autonomous Vehicle Project</h4></b></td>
@@ -68,11 +68,11 @@ title: Academic Projects
         </table> 
       </td>
     </tr>
-    <!------>
     <tr>
       <td><hr></td>
       <td><hr></td>
     </tr>
+    <!------>
     <tr>
       <td class="left"><b><h4> IIT Kharagpur</h4></b></td>
       <td class="right" style="text-align:right"><b><h4>Industrial Visual Inspection System</h4></b></td>
@@ -94,11 +94,11 @@ title: Academic Projects
         </table>
       </td>
     </tr>
-    <!------>
     <tr>
       <td><hr></td>
       <td><hr></td>
     </tr>
+    <!------>
     <tr>
       <td class="left"><b><h4> IIT Kharagpur</h4></b></td>
       <td class="right" style="text-align:right"><b><h4>Frequency Response Analyzer</h4></b></td>
@@ -124,11 +124,11 @@ title: Academic Projects
         </table>
       </td>
     </tr>
-    <!------>
     <tr>
       <td><hr></td>
       <td><hr></td>
     </tr>
+    <!------>
     <tr>
       <td class="left"><b><h4> IIT Kharagpur</h4></b></td>
       <td class="right" style="text-align:right"><b><h4>Voice Activated Switch</h4></b></td>
@@ -149,6 +149,10 @@ title: Academic Projects
           </tbody>
         </table>
       </td>
+    </tr>
+    <tr>
+      <td><hr></td>
+      <td><hr></td>
     </tr>
   </tbody>
  </table>

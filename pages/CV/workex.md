@@ -24,16 +24,15 @@ title: Work Experience
       </tbody>
      </table>
     </tr>
+    <tr>
+      <td><hr></td>
+    </tr>
     <!--------->
   </tbody>
 </table>
 <table class="education">
   <tbody>
     <!-------->
-    <tr>
-      <td><hr></td>
-      <td><hr></td>
-    </tr>
     <tr>
       <td align="left"><b><h4>Winter Research Internship</h4></b></td>
       <td align="right"><b><h4>University of Queensland, Australia</h4></b></td>
@@ -52,16 +51,15 @@ title: Work Experience
       </tbody>
      </table>
     </tr>
+    <tr>
+      <td><hr></td>
+    </tr>
     <!--------->
   </tbody>
 </table>
 <table class="education">
   <tbody>
     <!--------->
-    <tr>
-      <td><hr></td>
-      <td><hr></td>
-    </tr>
     <tr>
       <td align="left"><b><h4>Summer Research Internship</h4></b></td>
       <td align="right"><b><h4>Universitat Jamue-I, Castellon, Spain</h4></b></td>
@@ -79,6 +77,9 @@ title: Work Experience
         </tr>
       </tbody>
      </table>
+    </tr>
+    <tr>
+      <td><hr></td>
     </tr>
     <!--------->
   </tbody>
