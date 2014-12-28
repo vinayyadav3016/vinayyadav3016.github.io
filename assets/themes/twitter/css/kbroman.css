@@ -40,8 +40,8 @@ table.wide {
 }
 
 table.wide td {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 td.left {
@@ -51,6 +51,84 @@ td.left {
 td.right {
     text-align: right;
 }
+
+table.education {
+    width: 100%;
+}
+
+table.education td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+table.education td.left {
+    text-align: left;
+    width: 20%;
+    vertical-align: top;
+    padding-right: 0px
+}
+
+table.education td.right {
+    text-align: justify;
+    width: 80%;
+    vertical-align: top;
+    padding-left: 10px
+}
+
+table.project {
+    width: 100%;
+}
+
+table.project td {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+table.project td.bullet {
+    text-align: left;
+    width: 3%;
+    vertical-align: top;
+    padding-right: 0px
+}
+
+table.project td.left {
+    text-align: left;
+    width: 97%;
+    vertical-align: top;
+    padding-left: 0px
+}
+
+table.award {
+    width: 100%;
+}
+
+table.award td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+table.award td.bullet {
+    text-align: left;
+    width: 2%;
+    vertical-align: top;
+    padding-right: 2px
+}
+
+table.award td.left {
+    text-align: left;
+    width: 88%;
+    vertical-align: top;
+    padding-left: 0px
+}
+
+table.award td.right {
+    text-align: right;
+    width: 10%;
+    vertical-align: top;
+    padding-left: 0px
+}
+
+
 
 #hide_email b {
     display: none;
