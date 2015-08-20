@@ -64,7 +64,7 @@ title: Skills
   <tbody>
     <!---☆★½--->
     <tr>
-      <td class="skill1"><b><h4> Matlab </h4></b></td>
+      <td class="skill1"><b><h4> Matlab/Octave </h4></b></td>
       <td class="skill1_rate"><b><h4>★★★★</h4></b></td>
       <td class="bullet"><b> </b></td>
       <td class="skill2"><b><h4> ROS </h4></b></td>
@@ -75,8 +75,8 @@ title: Skills
       <td class="skill1"><b><h4> OpenCV </h4></b></td>
       <td class="skill1_rate"><b><h4>★★★½</h4></b></td>
       <td class="bullet"><b> </b></td>
-      <td class="skill2"><b><h4> Lucene </h4></b></td>
-      <td class="skill2_rate"><b><h4>★★★</h4></b></td> 
+      <td class="skill2"><b><h4> Solr/Lucene </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★</h4></b></td> 
     </tr>
     <!---☆★½--->
     <tr>
@@ -88,11 +88,19 @@ title: Skills
     </tr>
     <!---☆★½--->
     <tr>
-      <td class="skill1"><b><h4> arm-gcc </h4></b></td>
-      <td class="skill1_rate"><b><h4>★★★★</h4></b></td>
+      <td class="skill1"><b><h4> Hadoop </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★</h4></b></td>
       <td class="bullet"><b> </b></td>
-      <td class="skill2"><b><h4> avr-gcc </h4></b></td>
-      <td class="skill2_rate"><b><h4>★★★★★</h4></b></td> 
+      <td class="skill2"><b><h4> Excel </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★</h4></b></td> 
+    </tr>
+    <!---☆★½--->
+    <tr>
+      <td class="skill1"><b><h4> Cuda </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★</h4></b></td>
+      <td class="bullet"><b> </b></td>
+      <td class="skill2"><b><h4> Pandas </h4></b></td>
+      <td class="skill2_rate"><b><h4>★★★★</h4></b></td> 
     </tr>
     <tr>
       <td><hr/></td>
@@ -157,7 +165,7 @@ title: Skills
     <!---☆★½--->
     <tr>
       <td class="skill1"><b><h4> Beaglebone Black </h4></b></td>
-      <td class="skill1_rate"><b><h4>★★★★★</h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★½</h4></b></td>
       <td class="bullet"><b> </b></td>
       <td class="skill2"><b><h4> AVR Micro-Controllers </h4></b></td>
       <td class="skill2_rate"><b><h4>★★★★★</h4></b></td> 

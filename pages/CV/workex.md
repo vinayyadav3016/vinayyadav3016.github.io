@@ -18,7 +18,7 @@ title: Work Experience
       <tbody>
         <tr>
           <td class="left">July 2014 - current</td>
-          <td class="right">Opera Solutions is Big Data company which based on USA. Right after my graduation, I started worling at Opera. Here I have developed a Merchant Matching Tool (MMT) for a client using Fuzzy String Matching and <a href="http://lucene.apache.org/core/" target="_blank">Lucene</a> text processing library written in Java. The desinged tool improved matching accuracy to 77% from 56%. I also automated the whole Extraction, Transport & Loading (ELT) process and  result generation process.<br></br><a href="http://www.operasolutions.com/" target="_blank">www.operasolutions.com</a>
+          <td class="right">Opera Solutions is Big Data company which based on USA. Right after my graduation, I started worling at Opera. Here I have developed a Merchant Matching Tool (MMT) for a client using Fuzzy String Matching and <a href="http://lucene.apache.org/core/" target="_blank">Lucene</a> text processing library written in Java. The desinged tool improved matching accuracy to 77% from 56%. I also automated the whole Extraction, Transport & Loading (ELT) process and  result generation process. I am also part of Sentinel Seach Engine team which is a database search engine. Other than search engines, I have worked on Gaussian Missing Data model for forcasting footfall at future clinic/store loctions. I have also worked on Neural Network for detecting fraudent merchant.<br></br><a href="http://www.operasolutions.com/" target="_blank">www.operasolutions.com</a>
           </td>
         </tr>
       </tbody>
@@ -42,7 +42,7 @@ title: Work Experience
       <tbody>
         <tr>
           <td class="left">May 2013 - July 2013</td>
-          <td class="right">University of Queensland is a well known institute in the field of Robotics. I worked there at Robotics Design Lab under supervision on <a href="http://robotics.itee.uq.edu.au/~hannakur/" target="_blank">Prof. Hanna Kurniawati</a>. During this preriod I was working on planning under uncertaninty using Partially Observable Markov Decision Process famously known as POMDP. We developed a new POMDP solver named SBT (State-sequence based Belief Tree) which can handle time varying POMDP models and can handle state-space large upto 1.9 Million states. Initial results showed that SBT is upto 120 time faster than existing fasted POMDP solver named POMCP.<br></br><a href="http://robotics.itee.uq.edu.au/dokuwiki/" target="_blank">Robotics Lab</a>
+          <td class="right">University of Queensland is a well known institute in the field of Robotics. I worked there at Robotics Design Lab under supervision on <a href="http://robotics.itee.uq.edu.au/~hannakur/" target="_blank">Prof. Hanna Kurniawati</a>. During this preriod I was working on planning under uncertaninty using Partially Observable Markov Decision Process famously known as POMDP. We developed a new POMDP solver named ABT (Adaptive Belief Tree) which can handle time varying POMDP models and can handle state-space large upto 1.9 Million states. Initial results showed that SBT is upto 120 time faster than existing fasted POMDP solver named POMCP.<br></br><a href="http://robotics.itee.uq.edu.au/dokuwiki/" target="_blank">Robotics Lab</a>
           </td>
         </tr>
         <tr>
