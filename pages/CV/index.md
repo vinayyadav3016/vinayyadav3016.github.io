@@ -26,7 +26,7 @@ title: Education
     </tr>
     <tr>
       <td class="left">July 2009- May 2014</td>
-      <td class="right">Due to my interest in intelligent systems, I have taken additional courses in Computer Science, besides my curriculum coursework in Electrical Engineering. This earned me a minor in Computer Science with CGPA of 8.44/10. For more information on minor requirement please visit <a href="http://www.webteam.iitkgp.ernet.in/dec08/CS10.pdf" target="_blank">Minor in CSE</a></td>
+      <td class="right">Due to my interest in intelligent systems, I have taken additional courses in Computer Science, besides my curriculum coursework in Electrical Engineering. This earned me a minor in Computer Science with CGPA of 8.44/10. For more information on minor requirement please visit <a href="https://erp.iitkgp.ac.in/MinorCurricula.pdf" target="_blank">Minor in CSE</a></td>
     </tr>
     <tr>
       <td><hr></td>

@@ -17,7 +17,7 @@ title: Skills
   <tbody>
     <!---☆★½--->
     <tr>
-      <td class="skill1"><b><h4> C++ </h4></b></td>
+      <td class="skill1"><b><h4> C/C++ </h4></b></td>
       <td class="skill1_rate"><b><h4>★★★★½</h4></b></td>
       <td class="bullet"><b> </b></td>
       <td class="skill2"><b><h4> Python </h4></b></td>
@@ -25,20 +25,20 @@ title: Skills
     </tr>
     <!---☆★½--->
     <tr>
-      <td class="skill1"><b><h4> C </h4></b></td>
-      <td class="skill1_rate"><b><h4>★★★★½</h4></b></td>
+      <td class="skill1"><b><h4> bash </h4></b></td>
+      <td class="skill1_rate"><b><h4>★★★½</h4></b></td>
       <td class="bullet"><b> </b></td>
       <td class="skill2"><b><h4> Java </h4></b></td>
       <td class="skill2_rate"><b><h4>★★½</h4></b></td> 
     </tr>
     <!---☆★½--->
-    <tr>
+    <!--tr>
       <td class="skill1"><b><h4> C# </h4></b></td>
       <td class="skill1_rate"><b><h4>★★½</h4></b></td>
       <td class="bullet"><b> </b></td>
       <td class="skill2"><b><h4> Shell </h4></b></td>
       <td class="skill2_rate"><b><h4>★★★★</h4></b></td> 
-    </tr>
+    </tr-->
     <tr>
       <td><hr/></td>
       <td><hr/></td>
@@ -63,24 +63,24 @@ title: Skills
 <table class="skills">
   <tbody>
     <!---☆★½--->
-    <tr>
+    <!--tr>
       <td class="skill1"><b><h4> Matlab/Octave </h4></b></td>
       <td class="skill1_rate"><b><h4>★★★★</h4></b></td>
       <td class="bullet"><b> </b></td>
       <td class="skill2"><b><h4> ROS </h4></b></td>
       <td class="skill2_rate"><b><h4>★★★★½</h4></b></td> 
-    </tr>
+    </tr-->
     <!---☆★½--->
-    <tr>
+    <!--tr>
       <td class="skill1"><b><h4> OpenCV </h4></b></td>
       <td class="skill1_rate"><b><h4>★★★½</h4></b></td>
       <td class="bullet"><b> </b></td>
       <td class="skill2"><b><h4> Solr/Lucene </h4></b></td>
       <td class="skill2_rate"><b><h4>★★★★</h4></b></td> 
-    </tr>
+    </tr-->
     <!---☆★½--->
     <tr>
-      <td class="skill1"><b><h4> QT </h4></b></td>
+      <td class="skill1"><b><h4> Solr/Lucene </h4></b></td>
       <td class="skill1_rate"><b><h4>★★★★</h4></b></td>
       <td class="bullet"><b> </b></td>
       <td class="skill2"><b><h4> SciPy </h4></b></td>
@@ -126,20 +126,20 @@ title: Skills
   <tbody>
     <!---☆★½--->
     <tr>
-      <td class="skill1"><b><h4> Ubuntu </h4></b></td>
+      <td class="skill1"><b><h4> Linux </h4></b></td>
       <td class="skill1_rate"><b><h4>★★★★½</h4></b></td>
       <td class="bullet"><b> </b></td>
       <td class="skill2"><b><h4> Windows  </h4></b></td>
       <td class="skill2_rate"><b><h4>★★★½</h4></b></td> 
     </tr>
     <!---☆★½--->
-    <tr>
+    <!--tr>
       <td class="skill1"><b><h4> Android </h4></b></td>
       <td class="skill1_rate"><b><h4>★★½</h4></b></td>
       <td class="bullet"><b> </b></td>
       <td class="skill2"><b><h4> Debian </h4></b></td>
       <td class="skill2_rate"><b><h4>★★★★</h4></b></td> 
-    </tr>
+    </tr-->
     <tr>
       <td><hr/></td>
       <td><hr/></td>
