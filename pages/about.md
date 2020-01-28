@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about
 ---
 I am a programming/computer enthusiast, right now working as Senior Analyst at Jaypee Capital, Delhi.
 

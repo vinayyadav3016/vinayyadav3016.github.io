@@ -1,68 +1,67 @@
-<div class="container-narrow">
-    <section class="panel panel-default">
-        <div class="panel-heading">
-            <h3 class="panel-title">Categories</h3>
+<!-- -->
+<section class="panel panel-default">
+    <!--div class="panel-heading">
+        <h3 class="panel-title">Categories</h3>
+    </div-->
+    <div class="list-group">
+        {% for category in site.categories %}
+            {% capture category_url %}/{{ site.category_dir }}/{{ category | first | slugize | downcase | replace:' ','-'}}{% endcapture %}
+            <a class="list-group-item {% if category_url == page.url %}active{% endif %}" href="#{{ category | first }}-ref">
+                <span class="badge">
+                    {{ category | last | size }}
+                </span>
+                <a href="{{ category_url }}">{{ category | first }}</a>
+            </a>
+        {% endfor %}
+        <span style="float:right"><b>{{ page.date | date_to_long_string }}</b></span>
+    </div>
+</section>
+<hr style="margin:1px 0;border:0;border-top:1px solid #000000;border-bottom:1px solid #000000">
+<!-- -->
+<br/>
+<div class="row-fluid post-full">
+    <div class="span12">
+        <div class="content">
+            {{ content }}
         </div>
-        <div class="list-group">
-            {% for category in site.categories %}
-                {% capture category_url %}/{{ site.category_dir }}/{{ category | first | slugize | downcase | replace:' ','-' | append:'/index.html'}}{% endcapture %}
-                <a class="list-group-item {% if category_url == page.url %}active{% endif %}" href="{{ root_url | append:category_url }}">
-                    <span class="badge">
-                        {{ category | last | size }}
-                    </span>
-                    {{ category | first }}
-                </a>
-            {% endfor %}
-        </div>
-    </section>
-    <div class="row-fluid post-full">
-        <div class="span12">
-            <div class="date">
-                <span>{{ page.date | date_to_long_string }}</span>
-            </div>
-            <div class="content">
-                {{ content }}
-            </div>
-            <!-- Google + -->
-            <p><g:plusone size="medium"></g:plusone>
-                <a href="https://twitter.com/share" class="twitter-share-button" data-via="erjjones">Tweet</a>
-            </p>
-            <!---->
-            {% unless page.categories == empty %}
-                <ul class="tag_box inline">
+        <hr style="margin:1px 0;border:0;border-top:1px solid #000000;border-bottom:1px solid #000000">
+        <!-- Google + -->
+        <!--p><g:plusone size="medium"></g:plusone>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-via="erjjones">Tweet</a>
+        </p-->
+        {% if page.categories != empty or page.tags != empty %}
+            <ul class="tag_box inline">
+                {% if page.categories != empty %}
                     <li><i class="icon-folder-open"></i></li>
                     {% assign categories_list = page.categories %}
                     {% include JB/categories_list %}
-                </ul>
-            {% endunless %}
-            {% unless page.tags == empty %}
-                <ul class="tag_box inline">
+                {% endif %}
+                {% if page.tags != empty %}
                     <li><i class="icon-tags"></i></li>
                     {% assign tags_list = page.tags %}
                     {% include JB/tags_list %}
-                </ul>
-            {% endunless %}
-            <hr>
-            <div class="pagination">
-                <ul>
-                    {% if page.previous %}
-                        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
-                    {% else %}
-                        <li class="prev disabled"><a>&larr; Previous</a></li>
-                    {% endif %}
-                        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
-                    {% if page.next %}
-                        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
-                    {% else %}
-                        <li class="next disabled"><a>Next &rarr;</a>
-                    {% endif %}
-                </ul>
-            </div>
-            <hr>
-            {% include JB/comments %}
+                {% endif %}
+            </ul>
+        {% endif %}
+        <div class="pagination">
+            <ul>
+                {% if page.previous %}
+                    <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+                {% else %}
+                    <li class="prev disabled"><a>&larr; Previous</a></li>
+                {% endif %}
+                    <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+                {% if page.next %}
+                    <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+                {% else %}
+                    <li class="next disabled"><a>Next &rarr;</a>
+                {% endif %}
+            </ul>
         </div>
+        <hr style="margin:1px 0;border:0;border-top:1px solid #000000;border-bottom:1px solid #000000">
+        {% include JB/comments %}
     </div>
-    <!---->
-    <a href="http://vinayyadav3016.github.io{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>
-    {% include themes/post_js.html %}
 </div>
+<!---->
+<a href="http://vinayyadav3016.github.io{{ page.url }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>
+{% include themes/post_js.html %}

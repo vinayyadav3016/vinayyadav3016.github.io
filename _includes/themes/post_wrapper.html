@@ -6,8 +6,10 @@
     </head>
     <body bgcolor="#F3EFE0">
         {% include themes/top_bar.html %}
-        {% include themes/page_header.html %}
-        {% include themes/post.html %}
+        <div class="container-narrow">
+            {% include themes/page_header.html %}
+            {% include themes/post.html %}
+        </div>
         {% include themes/bottom_bar.html %}
         {% include JB/analytics %}
     </body>
